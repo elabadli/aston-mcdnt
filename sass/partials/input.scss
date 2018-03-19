@@ -1,0 +1,9 @@
+//input.scss
+
+@mixin form-input($width, $color:skyblue){
+	display:block;
+	width:$width;
+	height: 20px;
+	padding: 6px 12px;
+	
+}

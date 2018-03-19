@@ -1,0 +1,18 @@
+#homepage {
+  background: skyblue;
+  font-family: fantasy; }
+  #homepage p {
+    color: pink; }
+    #homepage p span {
+      color: red; }
+  #homepage form input {
+    color: red;
+    width: 45px; }
+
+/* $color: #0296C0;
+body
+{
+	background-color: $color;
+} */
+
+/*# sourceMappingURL=style.css.map */

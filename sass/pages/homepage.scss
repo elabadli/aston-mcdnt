@@ -1,0 +1,17 @@
+//#homepage.scss
+#homepage{
+	background: $primary_color;
+	font_family: $font;
+	p{
+	color: pink;
+	span{
+		color:red;
+	}
+	}
+	form{
+		input{
+			color:red;
+			width:45px;
+		}
+	}
+}

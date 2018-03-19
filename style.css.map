@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA,SAAS;EACR,UAAU,ECFI,OAAO;EDGrB,WAAW,EEHN,OAAO;EFIZ,WAAC;IACD,KAAK,EAAE,IAAI;IACX,gBAAI;MACH,KAAK,EAAC,GAAG;EAIT,oBAAK;IACJ,KAAK,EAAC,GAAG;IACT,KAAK,EAAC,IAAI;;AGTb;;;;IAII",
+"sources": ["sass/pages/homepage.scss","sass/modules/color.scss","sass/modules/value.scss","sass/main.scss"],
+"names": [],
+"file": "style.css"
+}
